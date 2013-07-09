@@ -1,0 +1,31 @@
+12 ThereAndBack
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+9 4
+1 2 1 6
+3 YES
+1
+1
+9 4
+1 2 3 4
+2 NO
+1
+16 CHelper/src/main
+16 -Xmx256m -Xss64m
+4 Main
+17 main.ThereAndBack
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.07.09
+38 Yandex.Algorithm - Qualification Round
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0
