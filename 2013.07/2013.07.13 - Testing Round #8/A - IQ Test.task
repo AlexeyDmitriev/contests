@@ -1,0 +1,33 @@
+11 A - IQ Test
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+16 836 624 412 200
+
+4 -12
+
+1
+1
+15 1 334 667 1000
+
+5 1333
+
+1
+16 CHelper/src/main
+8 -Xmx256M
+4 Main
+10 main.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.07.13
+16 Testing Round #8
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0

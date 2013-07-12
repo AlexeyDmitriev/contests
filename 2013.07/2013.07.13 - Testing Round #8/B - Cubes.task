@@ -1,0 +1,35 @@
+9 B - Cubes
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+9 42
+23454
+
+2 2
+
+1
+1
+13 169
+12118999
+
+2 1
+
+1
+16 CHelper/src/main
+8 -Xmx256M
+4 Main
+10 main.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.07.13
+16 Testing Round #8
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0
