@@ -1,0 +1,29 @@
+1 D
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+5 3 2 1
+1 -
+1
+1
+5 2 2 4
+7 Invalid
+1
+16 CHelper/src/main
+16 -Xmx256m -Xss64m
+4 Main
+6 main.D
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.07.18
+33 Yandex.Algorithm - Online Round 2
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0

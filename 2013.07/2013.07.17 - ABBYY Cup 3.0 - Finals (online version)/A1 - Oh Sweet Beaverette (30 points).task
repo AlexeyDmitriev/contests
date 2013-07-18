@@ -1,0 +1,35 @@
+36 A1 - Oh Sweet Beaverette (30 points)
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+12 5
+1 2 3 1 2
+
+6 8 1
+1 
+1
+1
+14 5
+1 -2 3 1 -2
+
+8 5 2
+2 5 
+1
+16 CHelper/src/main
+8 -Xmx256M
+4 Main
+11 main.TaskA1
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.07.17
+39 ABBYY Cup 3.0 - Finals (online version)
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0
