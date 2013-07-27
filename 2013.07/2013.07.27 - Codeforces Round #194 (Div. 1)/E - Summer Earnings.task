@@ -1,0 +1,43 @@
+19 E - Summer Earnings
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+14 3
+0 1
+1 0
+1 1
+
+23 0.50000000000000000000
+
+1
+1
+38 7
+2 -3
+-2 -3
+3 0
+-3 -1
+1 -2
+2 -2
+-1 0
+
+23 1.58113883008418980000
+
+1
+16 CHelper/src/main
+8 -Xmx256M
+4 Main
+10 main.TaskE
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.07.27
+30 Codeforces Round #194 (Div. 1)
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0
