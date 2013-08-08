@@ -1,0 +1,33 @@
+27 A - The number of positions
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+6 3 1 1
+
+2 2
+
+1
+1
+6 5 2 3
+
+2 3
+
+1
+16 CHelper/src/main
+8 -Xmx256M
+4 Main
+10 main.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.08.06
+39 Codeforces Beta Round #92 (Div. 2 Only)
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0

@@ -1,0 +1,35 @@
+26 A - Arrival of the General
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+14 4
+33 44 11 22
+
+2 2
+
+1
+1
+23 7
+10 10 58 31 63 40 76
+
+3 10
+
+1
+16 CHelper/src/main
+8 -Xmx256M
+4 Main
+10 main.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.08.06
+30 Codeforces Round #103 (Div. 2)
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0
