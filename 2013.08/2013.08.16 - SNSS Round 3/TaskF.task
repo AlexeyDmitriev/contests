@@ -1,0 +1,38 @@
+5 TaskF
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+15 0
+2 -2 3 5 2 15
+2 13
+1
+1
+50 2
+0 1 2 46 53 60
+4 19 8 20 41 28
+16 43 10 40 51 46
+18 43.134414977486976
+1
+2
+13 0
+0 0 0 1 1 1
+-1
+1
+16 CHelper/src/main
+16 -Xmx256m -Xss64m
+4 Main
+10 main.TaskF
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.08.16
+12 SNSS Round 3
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0
