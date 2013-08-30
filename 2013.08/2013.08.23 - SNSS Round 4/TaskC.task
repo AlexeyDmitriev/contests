@@ -1,0 +1,48 @@
+5 TaskC
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+335 11 29
+.............................
+]O[...[][]....[][]....IOI....
+.I...........................
+..I...]O[...........[][].....
+.I....[+]............I......I
+I......I.............I......O
+.I.....I..]O[....[O].I......]
+..I....I...]]....[[..I.I+I..I
+.I....]I[...]]..[[...I.I.I..[
+..O...[I].....++.....I.I.I..I
+*****************************
+3 6 2
+1
+1
+21 3 5
+.....
+[][].
+*****
+3 1 0
+1
+2
+8 1 4
+****
+3 0 0
+1
+16 CHelper/src/main
+16 -Xmx256m -Xss64m
+4 Main
+10 main.TaskC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.08.23
+12 SNSS Round 4
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0
