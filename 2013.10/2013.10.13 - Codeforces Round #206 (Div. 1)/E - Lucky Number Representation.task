@@ -1,0 +1,46 @@
+31 E - Lucky Number Representation
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+17 5
+42
+17
+444
+7
+51
+
+55 7 7 7 7 7 7
+-1
+400 0 40 0 4 0
+7 0 0 0 0 0
+47 4 0 0 0 0
+
+1
+1
+5 1
+814
+-1
+1
+2
+13 1
+77171237123
+0 
+1
+16 CHelper/src/main
+8 -Xmx256M
+4 Main
+10 main.TaskE
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.10.13
+30 Codeforces Round #206 (Div. 1)
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0

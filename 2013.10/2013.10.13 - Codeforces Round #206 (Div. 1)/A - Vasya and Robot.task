@@ -1,0 +1,35 @@
+19 A - Vasya and Robot
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+19 3 4 4 19 1
+42 3 99
+
+4 576
+
+1
+1
+18 4 7 2 3 9
+1 2 3 4
+
+3 34
+
+1
+16 CHelper/src/main
+8 -Xmx256M
+4 Main
+10 main.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.10.13
+30 Codeforces Round #206 (Div. 1)
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0
