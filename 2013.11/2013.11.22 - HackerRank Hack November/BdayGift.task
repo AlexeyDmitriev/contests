@@ -1,0 +1,36 @@
+8 BdayGift
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+8 3
+1 
+1
+2
+3 2.0
+1
+1
+10 4
+1 
+2
+2
+2
+3 3.5
+1
+16 CHelper/src/main
+16 -Xmx256m -Xss64m
+8 Solution
+13 main.BdayGift
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.11.22
+10 HackerRank
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0
