@@ -1,0 +1,25 @@
+6 Task21
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+5 10000
+-1
+1
+16 CHelper/src/main
+16 -Xmx256m -Xss64m
+8 Solution
+11 main.Task21
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.10.28
+12 ProjectEuler
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0
