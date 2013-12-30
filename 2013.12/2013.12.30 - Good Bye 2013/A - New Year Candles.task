@@ -1,0 +1,33 @@
+20 A - New Year Candles
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+4 4 2
+
+2 7
+
+1
+1
+4 6 3
+
+2 8
+
+1
+16 CHelper/src/main
+8 -Xmx256M
+4 Main
+10 main.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.12.30
+13 Good Bye 2013
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0
