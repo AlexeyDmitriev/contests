@@ -1,0 +1,35 @@
+20 AncientParityControl
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+25 3
+FAKE
+BBCB
+ACMACMCCAAAMM
+10 OK
+FAKE
+OK
+1
+1
+6 1
+AAAB
+4 FAKE
+1
+16 CHelper/src/main
+16 -Xmx256m -Xss64m
+4 Main
+25 main.AncientParityControl
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.01.10
+12 SNWS Round 1
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0
