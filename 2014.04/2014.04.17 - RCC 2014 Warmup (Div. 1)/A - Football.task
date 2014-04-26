@@ -1,0 +1,30 @@
+12 A - Football
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+4 3 1
+
+14 3
+1 2
+2 3
+3 1
+
+1
+16 CHelper/src/main
+8 -Xmx256M
+4 Main
+10 main.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.04.17
+24 RCC 2014 Warmup (Div. 1)
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0

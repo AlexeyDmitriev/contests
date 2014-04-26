@@ -1,0 +1,31 @@
+14 KFactorization
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+5 2
+5 7
+1 4
+1
+1
+4 1
+15
+1 1
+1
+16 CHelper/src/main
+16 -Xmx256m -Xss64m
+16 KFactorizationAD
+19 main.KFactorization
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.08.30
+0 
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0
