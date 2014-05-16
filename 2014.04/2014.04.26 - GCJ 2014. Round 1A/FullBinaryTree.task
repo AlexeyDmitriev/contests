@@ -1,0 +1,41 @@
+14 FullBinaryTree
+12 MULTI_NUMBER
+12 LOCAL_REGEXP
+7 B-.*.in
+7 TASK_ID
+10 output.txt
+1
+0
+51 3
+3
+2 1
+1 3
+7
+4 5
+4 2
+1 2
+3 1
+6 4
+3 7
+4
+1 2
+2 3
+3 4
+32 Case #1: 0
+Case #2: 2
+Case #3: 1
+1
+16 CHelper/src/main
+16 -Xmx256m -Xss64m
+4 Main
+19 main.FullBinaryTree
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.04.26
+18 GCJ 2014. Round 1A
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0

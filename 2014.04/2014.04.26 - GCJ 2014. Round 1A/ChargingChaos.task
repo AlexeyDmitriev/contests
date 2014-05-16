@@ -1,0 +1,37 @@
+13 ChargingChaos
+12 MULTI_NUMBER
+12 LOCAL_REGEXP
+7 A-.*.in
+6 CUSTOM
+9 chaos.out
+1
+0
+60 3
+3 2
+01 11 10
+11 00 10
+2 3
+101 111
+010 001
+2 2
+01 10
+10 01
+
+43 Case #1: 1
+Case #2: NOT POSSIBLE
+Case #3: 0
+1
+16 CHelper/src/main
+16 -Xmx256m -Xss64m
+4 Main
+18 main.ChargingChaos
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.04.26
+18 GCJ 2014. Round 1.
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0
