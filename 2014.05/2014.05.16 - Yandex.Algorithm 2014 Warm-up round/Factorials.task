@@ -1,0 +1,33 @@
+10 Factorials
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+3 4 1
+1 4
+1
+1
+3 3 2
+1 2
+1
+2
+5 100 3
+-1
+1
+16 CHelper/src/main
+16 -Xmx256m -Xss64m
+4 Main
+15 main.Factorials
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.05.16
+35 Yandex.Algorithm 2014 Warm-up round
+1
+29 name.admitriev.spsl.io.Reader
+35 name.admitriev.spsl.io.OutputWriter
+0
+0
